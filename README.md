@@ -54,7 +54,18 @@ npm run serve
 
 ## Screenshots
 1. Home Page:
+   ![Uploading Screenshot 2024-08-19 at 2.04.49 PM.png…]()
+<img width="1092" alt="Screenshot 2024-08-19 at 2 06 11 PM" src="https://github.com/user-attachments/assets/a7a45c16-7eda-4092-aba5-58233f826ad3">
+<img width="337" alt="Screenshot 2024-08-19 at 2 06 39 PM" src="https://github.com/user-attachments/assets/bf2ddcc5-e1e6-4365-b929-fa2761612d61">
+<img width="676" alt="Screenshot 2024-08-19 at 2 07 17 PM" src="https://github.com/user-attachments/assets/d67c7f12-2b08-438d-9c00-1e6efca1104d">
 
-2. Course Page:
 
-3. Admin Dashboard:
+3. Course Page:
+   <img width="517" alt="Screenshot 2024-08-19 at 2 08 44 PM" src="https://github.com/user-attachments/assets/22c48138-ab29-4e9f-8820-1e722e255337">
+<img width="1079" alt="Screenshot 2024-08-19 at 2 09 20 PM" src="https://github.com/user-attachments/assets/9b103a47-d3e5-46f7-bbf2-18ba1bf8df36">
+<img width="880" alt="Screenshot 2024-08-19 at 2 09 58 PM" src="https://github.com/user-attachments/assets/3c89ec73-6c87-47be-a1a1-af696f23e2c7">
+<img width="1085" alt="Screenshot 2024-08-19 at 2 10 41 PM" src="https://github.com/user-attachments/assets/73f0084d-4a27-47aa-9fe6-138c885cd4c8">
+
+
+5. Admin Dashboard:
+<img width="1084" alt="Screenshot 2024-08-19 at 2 07 54 PM" src="https://github.com/user-attachments/assets/845f9245-6c09-4a64-882f-fff2996a58b6">
