@@ -54,7 +54,6 @@ npm run serve
 
 ## Screenshots
 1. Home Page:
-   ![Uploading Screenshot 2024-08-19 at 2.04.49 PM.png…]()
 <img width="1092" alt="Screenshot 2024-08-19 at 2 06 11 PM" src="https://github.com/user-attachments/assets/a7a45c16-7eda-4092-aba5-58233f826ad3">
 <img width="337" alt="Screenshot 2024-08-19 at 2 06 39 PM" src="https://github.com/user-attachments/assets/bf2ddcc5-e1e6-4365-b929-fa2761612d61">
 <img width="676" alt="Screenshot 2024-08-19 at 2 07 17 PM" src="https://github.com/user-attachments/assets/d67c7f12-2b08-438d-9c00-1e6efca1104d">
