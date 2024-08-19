@@ -1,0 +1,51 @@
+# Node.js modules
+node_modules/
+
+
+# Python virtual environments
+venv/
+env/
+
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Django migrations (if using Django)
+**/migrations/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+build/
+dist/
+*.log
+
+# Vue.js specific
+.DS_Store
+public/dist/
+src/assets/
+
+# Local configuration files
+*.env
+*.local
+*.env.local
+*.env.*.local
+
+# Logs and databases
+*.log
+*.sqlite3
+*.csv
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
